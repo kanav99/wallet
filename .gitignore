@@ -1,0 +1,6 @@
+/cli/node_modules/
+/cli/.env
+/.vscode/
+/main
+/tests/libtrezor-crypto.so
+*.o

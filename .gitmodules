@@ -1,0 +1,3 @@
+[submodule "trezor-crypto"]
+	path = trezor-crypto
+	url = https://github.com/kanav99/trezor-crypto
